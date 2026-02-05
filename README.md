@@ -1562,56 +1562,25 @@ This tool is perfect for social media creators, students, photographers, and des
   <h2 class="text-3xl md:text-4xl font-bold text-gray-800 text-center mb-10">
     Frequently Asked <span class="text-indigo-600">Questions</span>
   </h2>
-
-  <div class="space-y-4">
-
-    <details class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-md">
-      <summary class="flex justify-between items-center font-semibold text-gray-700 cursor-pointer">
-        <span>Is this image filter editor completely free?</span>
-        <svg class="w-5 h-5 transition group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-          <path d="M6 9l6 6 6-6"/>
-        </svg>
-      </summary>
+<section>
+ <div>
+<span>Is this image filter editor completely free?</span>
       <p class="text-gray-600 mt-3">
         Yes, our online image filter editor is 100% free to use with no hidden charges or subscriptions.
       </p>
-    </details>
-
-    <details class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-md">
-      <summary class="flex justify-between items-center font-semibold text-gray-700 cursor-pointer">
         <span>Do I need to create an account?</span>
-        <svg class="w-5 h-5 transition group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-          <path d="M6 9l6 6 6-6"/>
-        </svg>
-      </summary>
       <p class="text-gray-600 mt-3">
         No registration is required. You can start editing your images instantly in your browser.
       </p>
-    </details>
-
-    <details class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-md">
-      <summary class="flex justify-between items-center font-semibold text-gray-700 cursor-pointer">
         <span>Are my photos safe and private?</span>
-        <svg class="w-5 h-5 transition group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-          <path d="M6 9l6 6 6-6"/>
-        </svg>
-      </summary>
       <p class="text-gray-600 mt-3">
         Yes, all image processing happens locally on your device, so your photos are never uploaded to any server.
       </p>
-    </details>
 
-    <details class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-md">
-      <summary class="flex justify-between items-center font-semibold text-gray-700 cursor-pointer">
         <span>Can I download images without watermarks?</span>
-        <svg class="w-5 h-5 transition group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-          <path d="M6 9l6 6 6-6"/>
-        </svg>
-      </summary>
       <p class="text-gray-600 mt-3">
         Yes, all edited images are downloaded in full quality with no watermark.
       </p>
-    </details>
 
   </div>
 </section>
