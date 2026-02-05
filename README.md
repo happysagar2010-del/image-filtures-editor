@@ -1638,7 +1638,7 @@ This tool is perfect for social media creators, students, photographers, and des
     <div id="filter-page" class="page">
         <div class="page-container">
             <!-- Header -->
-            <div class="filter-header"><br></br>
+            <div class="filter-header"><br>
 <h2>Free Online Image Filter Editor – Apply 50+ Photo Effects Instantly</h2>
                 <p class="filter-subtitle">
                     Upload your image and apply beautiful filters with real-time preview. 
