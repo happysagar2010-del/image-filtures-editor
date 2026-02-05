@@ -1584,7 +1584,6 @@ This tool is perfect for social media creators, students, photographers, and des
         Yes, all edited images are downloaded in full quality with no watermark.
       </p>
 
-  </div>
 </section>
             <!-- Footer -->
             <footer class="main-footer">
