@@ -1371,7 +1371,7 @@
             <section class="hero-section">
                 <div class="hero-bg"></div>
                 <div class="hero-content">
-                    <br></br><h1 class="hero-title">
+                    <br><h1 class="hero-title">
 Free Online Image Filter Editor – Apply 50+ Photo Effects Instantly
 </h1>
                     <p class="hero-subtitle">
